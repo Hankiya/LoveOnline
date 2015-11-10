@@ -1,6 +1,20 @@
 #Love Online...
 
-![](http://ww1.sinaimg.cn/mw1024/61d52794gw1ev4s8355hcj20dw0hpgmv.jpg)
+```
+bin 用户级二进制工具
+boot Linux内核镜像文件,由 bootloader程序读取并装载
+dev 各种系统硬件设备
+etc 系统配置文件及其他配置文件
+home 用户工作目录
+lib 系统运行时所需的各种库文件
+opt 操作系统附带的一些应用程序
+proc 内核及进程所虚拟的系统文件
+root 管理员工作目录
+sbin 与 bin 的区别在于,该目录下的二进制工具程序仅用于管理员,s 的 含 义 是 system administrator
+sys 一般是驱动程序对应的虚拟系统文件
+usr 管理安装的、所有用户都可以访问的应用程序
+var 系统运行时所产生的一些调试信息文件或者相关统计文件
+```
 
 ![](http://www.splitshire.com/wp-content/uploads/2015/03/SplitShire-8098-1800x1200-970x500.jpg)
 
