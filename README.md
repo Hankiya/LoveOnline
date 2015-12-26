@@ -1,4 +1,5 @@
 #Love Online...
+/play secret
 
 ```
 bin 用户级二进制工具
