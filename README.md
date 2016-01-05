@@ -1,6 +1,8 @@
 #Love Online...
 /play secret
 
+Aha
+
 ```
 bin 用户级二进制工具
 boot Linux内核镜像文件,由 bootloader程序读取并装载
