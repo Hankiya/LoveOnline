@@ -1,7 +1,6 @@
 #Love Online...
 /play secret
 
-Aha
 
 ```
 bin 用户级二进制工具
