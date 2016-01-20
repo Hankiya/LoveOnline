@@ -18,6 +18,8 @@ usr 管理安装的、所有用户都可以访问的应用程序
 var 系统运行时所产生的一些调试信息文件或者相关统计文件
 ```
 
+![](http://www.bz55.com/uploads1/allimg/120402/1_120402151141_1.jpg)
+
 ![](http://e.hiphotos.baidu.com/image/pic/item/4ec2d5628535e5dd1b7515f071c6a7efce1b6240.jpg)
 
 ![](http://www.splitshire.com/wp-content/uploads/2014/05/SplitShire_IMG_4661-1152x759.jpg)
