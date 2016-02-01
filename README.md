@@ -1,5 +1,6 @@
 #Love Online...
 
+![](http://c.hiphotos.baidu.com/image/pic/item/2fdda3cc7cd98d107b34c029263fb80e7aec90c2.jpg)
 /play secret
 
 ![](http://c.hiphotos.baidu.com/image/pic/item/7acb0a46f21fbe09299b0a3c6c600c338644add5.jpg)
