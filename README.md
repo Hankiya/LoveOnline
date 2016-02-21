@@ -2,7 +2,6 @@
 
 ![](http://p1.wmpic.me/article/2014/07/29/1406625312_HJygkpCG.jpg)
 
-![](http://image5.tuku.cn/pic/wallpaper/youxidongman/lolihuajiTinKlebizhi/020.jpg)
 
 ![](http://e.hiphotos.baidu.com/zhidao/pic/item/08f790529822720ee8688d147acb0a46f31fabbe.jpg)
 
